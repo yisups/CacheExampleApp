@@ -1,0 +1,13 @@
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.exe
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.deps.json
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.runtimeconfig.json
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.runtimeconfig.dev.json
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.dll
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\bin\Debug\netcoreapp3.1\CacheExampleApp.pdb
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.csprojAssemblyReference.cache
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.AssemblyInfoInputs.cache
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.AssemblyInfo.cs
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.dll
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.pdb
+C:\Users\jpozas\source\repos\CacheExampleApp\CacheExampleApp\obj\Debug\netcoreapp3.1\CacheExampleApp.genruntimeconfig.cache

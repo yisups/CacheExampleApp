@@ -1,0 +1,6 @@
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\bin\Debug\Cache.Core.dll
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\bin\Debug\Cache.Core.pdb
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\obj\Debug\Cache.Core.csprojAssemblyReference.cache
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\obj\Debug\Cache.Core.csproj.CoreCompileInputs.cache
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\obj\Debug\Cache.Core.dll
+C:\Users\jpozas\source\repos\CacheExampleApp\Cache.Core\obj\Debug\Cache.Core.pdb
